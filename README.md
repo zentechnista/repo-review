@@ -13,3 +13,5 @@ More review and general syncing.
 1. Open index.html in your browser.
 
 2. Make updates and review as needed.
+
+3. You're done!
